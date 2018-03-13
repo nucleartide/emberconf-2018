@@ -127,7 +127,7 @@ _Tobias introduces new, elegant testing APIs in Ember._
 #### Say More by [Jamie White]()
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Slides - [https://speakerdeck.com/turbo87/the-next-generation-of-testing-in-ember-dot-js](https://speakerdeck.com/turbo87/the-next-generation-of-testing-in-ember-dot-js)
 - Links:
   - ...
 
