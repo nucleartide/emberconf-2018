@@ -152,12 +152,23 @@ Jamie examines test abstractions, and how one might hide details and edge cases 
 - [schedule.emberconf.com](https://schedule.emberconf.com) module unification app
 - [Quest issue, module unification: final cut](https://github.com/emberjs/ember.js/issues/16373)
 
-#### Mastering the Art of Forms by [Danielle Adams]()
+#### Mastering the Art of Forms by [Danielle Adams](https://twitter.com/adamzdanielle)
+
+_Danielle dives into component and data design for use in form UI and UX._
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- Links:
-  - ...
+- Slides - https://slides.com/danielleadams/art-of-forms-ec18
+- Design questions
+  - Field type
+  - Required
+  - Dependency between inputs
+- Data-loading component using `willRender`
+  - Retries with [`ember-concurrency`](https://github.com/machty/ember-concurrency)
+- [`ember-cp-validations`](https://github.com/offirgolan/ember-cp-validations)
+- Concerns
+  - Built-in validation in HTML5 inputs
+  - Tab navigation order that makes sense
+- [Blue Apron](https://www.blueapron.com/) - form examples on the site
 
 #### How To Build A Bonfire: On Training and Hiring New Devs by [Taylor Jones]()
 
