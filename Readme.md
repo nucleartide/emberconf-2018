@@ -78,7 +78,7 @@ _Overall, lots of API improvements, as well as exciting advances in Glimmer.js._
 
 #### Everything they didn't tell you about the Ember Community by [Jessica Jordan](https://twitter.com/jjordan_dev)
 
-_Jessica provides an exhaustive overview of the Ember.js ecosystem and JavaScript subculture._
+_Jessica provides an exhaustive overview of the Ember.js ecosystem and Emberista subculture._
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
@@ -106,14 +106,25 @@ _Jessica provides an exhaustive overview of the Ember.js ecosystem and JavaScrip
 - [Ember Women Helping Women program](http://emberwomen.com/)
 - (not part of talk, related essay) [Melancholy of Subculture Society](https://www.gwern.net/The%20Melancholy%20of%20Subculture%20Society)
 
-#### Say More by [Jamie White]()
+#### The Next Generation of Testing by [Tobias Bieniek](https://twitter.com/tobiasbieniek?lang=en)
+
+_Tobias introduces new, elegant testing APIs in Ember._
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- Links:
-  - ...
+- `.andThen()` vs `async`/`await`
+- [`ember-native-dom-helpers`](https://github.com/cibernox/ember-native-dom-helpers)
+- [`@ember/test-helpers`](https://github.com/emberjs/ember-test-helpers)
+- [Grand Testing Unification RFC](https://github.com/rwjblue/rfcs/blob/42/text/0000-grand-testing-unification.md)
+- Codemods
+  - [`ember-native-dom-helpers-codemod`](https://github.com/simonihmig/ember-native-dom-helpers-codemod)
+  - [`ember-qunit-codemod`](https://github.com/rwjblue/ember-qunit-codemod)
+  - [`ember-test-helpers-codemod`](https://github.com/simonihmig/ember-test-helpers-codemod)
+- Test loading states: `await waitFor('.loading-spinner');`
+- [`ember-test-selectors`](https://github.com/simplabs/ember-test-selectors)
+- DOM assertion library: [`qunit-dom`](https://github.com/simplabs/qunit-dom)
 
-#### The Next Generation of Testing by [Tobias Bieniek]()
+#### Say More by [Jamie White]()
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
