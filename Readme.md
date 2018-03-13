@@ -50,11 +50,12 @@ _Overall, lots of API improvements, as well as exciting advances in Glimmer.js._
 
 #### Ambitious for All: Accessibility in Ember by [Melanie Sumner](https://twitter.com/melaniersumner?lang=en)
 
+> Be magnanimous.
+>
+> - Melanie
+
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-
-> Be magnanimous.
-
 - WAI-ARIA
 - WCAG 2.0
 - [Color-blind glasses](https://www.google.com/search?q=color+blind+glasses)
