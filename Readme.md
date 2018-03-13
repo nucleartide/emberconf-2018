@@ -111,7 +111,7 @@ _Jessica provides an exhaustive overview of the Ember.js ecosystem and Emberista
 _Tobias introduces new, elegant testing APIs in Ember._
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Slides](https://speakerdeck.com/turbo87/the-next-generation-of-testing-in-ember-dot-js)
 - `.andThen()` vs `async`/`await`
 - [`ember-native-dom-helpers`](https://github.com/cibernox/ember-native-dom-helpers)
 - [`@ember/test-helpers`](https://github.com/emberjs/ember-test-helpers)
@@ -124,12 +124,15 @@ _Tobias introduces new, elegant testing APIs in Ember._
 - [`ember-test-selectors`](https://github.com/simplabs/ember-test-selectors)
 - DOM assertion library: [`qunit-dom`](https://github.com/simplabs/qunit-dom)
 
-#### Say More by [Jamie White]()
+#### Say More by [Jamie White](https://twitter.com/jgwhite)
+
+Jamie examines test abstractions, and how one might hide details and edge cases behind a less powerful test language.
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- Links:
-  - ...
+- Access via accessibility
+- [Rule of Least Power](https://www.w3.org/2001/tag/doc/leastPower.html)
+- [Babel plugin](https://babeljs.io/docs/plugins/) for generating `keyboardClick` test
 
 #### Who Moved My Cheese? Ember's New Filesystem Layout by [Matthew Beale]()
 
