@@ -43,6 +43,11 @@ _Overall, lots of API improvements, as well as exciting advances in Glimmer.js._
 - https://schedule-wasm.emberconf.com - uses WASM
   - [Glimmer written in Rust](https://github.com/glimmerjs/glimmer-vm/pull/752)
 
+#### Brief interlude from sponsor [Percy.io](https://percy.io) by [Mike Fotinakis](https://twitter.com/mikefotinakis?lang=en)
+
+- [percy-web](https://github.com/percy/percy-web), open source front-end
+- [Example of PR integration](https://github.com/percy/percy-web/pull/459)
+
 #### Ambitious for All: Accessibility in Ember by [Melanie Sumner]()
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
