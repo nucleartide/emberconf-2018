@@ -134,12 +134,23 @@ Jamie examines test abstractions, and how one might hide details and edge cases 
 - [Rule of Least Power](https://www.w3.org/2001/tag/doc/leastPower.html)
 - [Babel plugin](https://babeljs.io/docs/plugins/) for generating `keyboardClick` test
 
-#### Who Moved My Cheese? Ember's New Filesystem Layout by [Matthew Beale]()
+#### Who Moved My Cheese? Ember's New Filesystem Layout by [Matthew Beale](https://twitter.com/mixonic)
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- Links:
-  - ...
+- [Ember.js Community Survey](https://emberjs.com/ember-community-survey-2018/)
+- [Module Unification RFC](https://github.com/emberjs/rfcs/blob/master/text/0143-module-unification.md)
+- Codemods
+  - [ember-cli/ember-modules-codemod](https://github.com/ember-cli/ember-modules-codemod)
+- [ember-optional-features](https://github.com/emberjs/ember-optional-features)
+- Concepts
+  - Colocation
+  - Local lookup / isolation
+  - Addon namespaces
+    - `{{gadget-tools::list}}`
+  - Compatibility between Module Unification layout and classic layout
+- [schedule.emberconf.com](https://schedule.emberconf.com) module unification app
+- [Quest issue, module unification: final cut](https://github.com/emberjs/ember.js/issues/16373)
 
 #### Mastering the Art of Forms by [Danielle Adams]()
 
