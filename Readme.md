@@ -76,12 +76,35 @@ _Overall, lots of API improvements, as well as exciting advances in Glimmer.js._
 - [`ember-component-attributes`](https://github.com/mmun/ember-component-attributes)
 - [\#topic-a11y](https://embercommunity.slack.com/messages/C06MC4CG6/)
 
-#### Everything they didn't tell you about the Ember Community by [Jessica Jordan]()
+#### Everything they didn't tell you about the Ember Community by [Jessica Jordan](https://twitter.com/jjordan_dev)
+
+_Jessica provides an exhaustive overview of the Ember.js ecosystem and JavaScript subculture._
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- Links:
-  - ...
+- Subculture
+  - Emberistas, subset/subculture of JavaScript community
+- [Growth in `@angular/cli` download counts](https://npm-stat.com/charts.html?package=%40angular%2Fcli&from=2017-03-01&to=2018-03-13)
+- Top addons on [Ember Observer](https://emberobserver.com/lists/top-addons)
+- [`ember-rickroll`](https://github.com/nucleartide/ember-rickroll) :troll:
+- [Ember Request For Comments (RFC) process](https://github.com/ember-cli/rfcs)
+- Quest issues concept
+  - Example: [Ember Data](https://github.com/emberjs/data/issues/5292)
+- [Ember.js status board](https://www.emberjs.com/statusboard/)
+- [Adoption of RFC process by React](https://reactjs.org/blog/2017/12/07/introducing-the-react-rfc-process.html)
+- [Ember.js Slack Community](https://embercommunity.slack.com)
+  - [`#give-wrjblue-a-beer`](https://embercommunity.slack.com/messages/C05599BQX/)
+- [Rapidly growing `ember-cli-typescript` adoption](https://github.com/typed-ember/ember-cli-typescript)
+- Email newsletters
+  - [Ember Weekly](http://www.emberweekly.com/)
+  - [Ember.js Times](https://the-emberjs-times.ongoodbits.com/)
+- Offline
+  - EmberConf
+  - EmberFest
+  - EmberCamp
+  - Meetups
+- [Ember Women Helping Women program](http://emberwomen.com/)
+- (not part of talk, related essay) [Melancholy of Subculture Society](https://www.gwern.net/The%20Melancholy%20of%20Subculture%20Society)
 
 #### Say More by [Jamie White]()
 
