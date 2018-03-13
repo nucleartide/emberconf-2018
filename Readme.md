@@ -48,12 +48,34 @@ _Overall, lots of API improvements, as well as exciting advances in Glimmer.js._
 - [percy-web](https://github.com/percy/percy-web), open source front-end
 - [Example of PR integration](https://github.com/percy/percy-web/pull/459)
 
-#### Ambitious for All: Accessibility in Ember by [Melanie Sumner]()
+#### Ambitious for All: Accessibility in Ember by [Melanie Sumner](https://twitter.com/melaniersumner?lang=en)
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- Links:
-  - ...
+
+> Be magnanimous.
+
+- WAI-ARIA
+- WCAG 2.0
+- [Color-blind glasses](https://www.google.com/search?q=color+blind+glasses)
+- https://include.ai
+  - Add alt text to images on the web
+- [ember-a11y](https://github.com/ember-a11y)
+- Problems
+  - Route transitions
+  - Modal focus
+  - `aria-*` support
+  - Clicks
+  - Passwords
+- Easy wins
+  - Use HTML5 elements
+  - Link for routing, button for everything else
+  - Keyboard nav, arrow keys
+  - [Color contrast](https://a11ywins.tumblr.com/post/167324368213/google-chromes-color-contrast-debugger)
+  - Image alt text
+    - `<img src="elmo.png" alt="" role="presentation" />`
+- [`ember-component-attributes`](https://github.com/mmun/ember-component-attributes)
+- [\#topic-a11y](https://embercommunity.slack.com/messages/C06MC4CG6/)
 
 #### Everything they didn't tell you about the Ember Community by [Jessica Jordan]()
 
