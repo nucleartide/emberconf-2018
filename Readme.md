@@ -16,7 +16,7 @@ Inspired by [**@poteto**](https://github.com/poteto)'s past EmberConf repos. See
 
 ### Talks
 
-#### Keynote
+#### Keynote by [Tom Dale](https://twitter.com/tomdale) and [Yehuda Katz](https://twitter.com/wycats)
 
 _Overall, lots of API improvements, as well as exciting advances in Glimmer.js._
 
