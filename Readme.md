@@ -4,6 +4,8 @@
 
 A collection of links (and notes) that summarize the events of EmberConf 2018. Please submit a PR if you'd like!
 
+Inspired by [@poteto](https://github.com/poteto)'s past EmberConf repos. See [2017](https://github.com/poteto/emberconf-2017), [2016](https://github.com/poteto/emberconf-2016), and [2015](https://github.com/poteto/emberconf-2015) for previous years!
+
 ## Livestream
 
 > <img alt="" src="https://user-images.githubusercontent.com/914228/34072730-9d2d0bcc-e25a-11e7-9ab5-405ddce05303.gif" width="25"> <img alt="" src="https://user-images.githubusercontent.com/914228/34072749-07a8ab50-e25b-11e7-80ba-d0f6250aad11.png" width="20.5">
