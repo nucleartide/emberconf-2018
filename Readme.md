@@ -53,7 +53,7 @@ _Overall, lots of API improvements, as well as exciting advances in Glimmer.js._
 
 > Be magnanimous.
 
-- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Video](https://youtu.be/qfnkDyHVJzs?t=8286)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - WAI-ARIA
 - WCAG 2.0
@@ -81,7 +81,7 @@ _Overall, lots of API improvements, as well as exciting advances in Glimmer.js._
 
 _Jessica provides an exhaustive overview of the Ember.js ecosystem and Emberista subculture._
 
-- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Video](https://youtu.be/qfnkDyHVJzs?t=10835)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Subculture
   - Emberistas, subset/subculture of JavaScript community
@@ -111,7 +111,7 @@ _Jessica provides an exhaustive overview of the Ember.js ecosystem and Emberista
 
 _Tobias introduces new, elegant testing APIs in Ember._
 
-- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Video](https://youtu.be/qfnkDyHVJzs?t=17882)
 - [Slides](https://speakerdeck.com/turbo87/the-next-generation-of-testing-in-ember-dot-js)
 - `.andThen()` vs `async`/`await`
 - [`ember-native-dom-helpers`](https://github.com/cibernox/ember-native-dom-helpers)
@@ -129,7 +129,7 @@ _Tobias introduces new, elegant testing APIs in Ember._
 
 Jamie examines test abstractions, and how one might hide details and edge cases behind a less powerful test language.
 
-- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Video](https://youtu.be/qfnkDyHVJzs?t=20356)
 - Slides - [https://speakerdeck.com/turbo87/the-next-generation-of-testing-in-ember-dot-js](https://speakerdeck.com/turbo87/the-next-generation-of-testing-in-ember-dot-js)
 - Access via accessibility
 - [Rule of Least Power](https://www.w3.org/2001/tag/doc/leastPower.html)
@@ -138,7 +138,7 @@ Jamie examines test abstractions, and how one might hide details and edge cases 
 
 #### Who Moved My Cheese? Ember's New Filesystem Layout by [Matthew Beale](https://twitter.com/mixonic)
 
-- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Video](https://youtu.be/qfnkDyHVJzs?t=22950)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - [Ember.js Community Survey](https://emberjs.com/ember-community-survey-2018/)
 - [Module Unification RFC](https://github.com/emberjs/rfcs/blob/master/text/0143-module-unification.md)
@@ -158,7 +158,7 @@ Jamie examines test abstractions, and how one might hide details and edge cases 
 
 _Danielle dives into component and data design for use in form UI and UX._
 
-- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Video](https://youtu.be/qfnkDyHVJzs?t=26963)
 - Slides - https://slides.com/danielleadams/art-of-forms-ec18
 - Design questions
   - Field type
@@ -174,7 +174,7 @@ _Danielle dives into component and data design for use in form UI and UX._
 
 #### How To Build A Bonfire: On Training and Hiring New Devs by [Taylor Jones](https://twitter.com/hiimtaylorjones)
 
-- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Video](https://youtu.be/qfnkDyHVJzs?t=29267)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - [Mythical Man Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
   - Can't throw people at a problem... or can you :shipit:
@@ -188,7 +188,7 @@ _Danielle dives into component and data design for use in form UI and UX._
 
 _mind blown_
 
-- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Video](https://youtu.be/qfnkDyHVJzs?t=31861)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Animation approaches
   - Tweening
