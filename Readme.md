@@ -239,8 +239,9 @@ _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- Links and notes:
-  - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
+- animalancestry.com
+- [Write the Docs](http://www.writethedocs.org/)
+- Sarah Mei's "refactor without permission" talk
 
 #### Deep Dive on Ember Events by [Marie Chatfield](https://twitter.com/mariechatfield)
 
