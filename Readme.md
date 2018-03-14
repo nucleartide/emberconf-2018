@@ -248,7 +248,7 @@ _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls
 _Marie offers a lucid explanation of the subtle differences between DOM event and Ember event handling._
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Slides](https://drive.google.com/file/d/1tI4_GJesVIiH1QXsHtjyT6NAyt0kip47/view)
 - Distinguish between DOM event listeners and Ember event listeners
   - DOM event listener (notice `on*` event syntax): `<div onclick={{action 'handleClick'}}>click me</div>`
   - Ember event listener: `<div {{action 'handleClick'}}>click me</div>`
