@@ -330,7 +330,7 @@ _Christine presents on how `ember-cli-deploy` helps with deployment on Conde Nas
   - `ember-cli-deploy`
   - `ember-cli-deploy-lightning-pack`
 
-#### Minitalk: Ember CLI Addon Docs by [Sam Selikoff]()
+#### Minitalk: Ember CLI Addon Docs by [Sam Selikoff](https://twitter.com/samselikoff)
 
 _Sam Selikoff presents ember-cli-addon-docs, a standard documentation solution for Ember addons._
 
@@ -346,7 +346,7 @@ _Sam Selikoff presents ember-cli-addon-docs, a standard documentation solution f
 - Examples of ember-cli-addon-docs sites
   - ember-data-storefront
 
-#### Minitalk: Let Me Ember This for You by [Serena Fritsch]()
+#### Minitalk: Let Me Ember This for You by [Serena Fritsch](https://twitter.com/serifritsch)
 
 _Serena presents on her experience rewriting the Ember.js deprecation page in Ember._
 
