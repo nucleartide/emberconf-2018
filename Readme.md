@@ -330,6 +330,22 @@ _Christine presents on how `ember-cli-deploy` helps with deployment on Conde Nas
   - `ember-cli-deploy`
   - `ember-cli-deploy-lightning-pack`
 
+#### Minitalk: Ember CLI Addon Docs by [Sam Selikoff]()
+
+_Sam Selikoff presents ember-cli-addon-docs, a standard documentation solution for Ember addons._
+
+- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Similar documentation sites
+  - ember-cli-mirage (original)
+  - ember-power-select
+  - ember-cli-deploy
+- Docs sites that are more animated
+  - liquid-fire
+  - ember-concurrency
+- Examples of ember-cli-addon-docs sites
+  - ember-data-storefront
+
 #### Minitalk: Let Me Ember This for You by [Serena Fritsch]()
 
 _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
