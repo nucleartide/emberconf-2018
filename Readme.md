@@ -233,14 +233,20 @@ _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls
 - Links and notes:
   - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
 
-#### Deep Dive on Ember Events by [Marie Chatfield]()
+#### Deep Dive on Ember Events by [Marie Chatfield](https://twitter.com/mariechatfield)
 
-_No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
+_Marie offers a lucid explanation of the subtle differences between DOM event and Ember event handling._
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- Links and notes:
-  - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
+- Distinguish between DOM event listeners and Ember event listeners
+  - DOM event listener (notice `on*` event syntax): `<div onclick={{action 'handleClick'}}>click me</div>`
+  - Ember event listener: `<div {{action 'handleClick'}}>click me</div>`
+    - Ember event listeners don't receive the native DOM event
+- [Deep Dive on Ember Events blog post from Marie](https://medium.com/square-corner-blog/deep-dive-on-ember-events-cf684fd3b808)
+- [`event_dispatcher.js`](https://github.com/emberjs/ember.js/blob/5a59eef5e6eb34001f8d002e1f8bc146d8d3f86f/packages/ember-views/lib/system/event_dispatcher.js#L205)
+- Pick one and stick with it
+- DOM event listeners fire before Ember event listeners
 
 #### Building a Memex in Ember by [Andrew Louis]()
 
