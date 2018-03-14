@@ -198,3 +198,115 @@ _mind blown_
   - Establish rules (like in games) and let motions emerge
 - [`ember-animated`](https://github.com/ember-animation/ember-animated), "Glimmer"-ization of `liquid-fire`
 - [ef4/living-animation](https://github.com/ef4/living-animation)
+
+## Day 2
+
+### Talks
+
+#### The Future of Data in Ember by [Dan Gebhardt]()
+
+_No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
+
+- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Links and notes:
+  - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
+
+#### Smartphone Symphony by [Gavin Joyce]()
+
+_No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
+
+- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Links and notes:
+  - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
+
+#### Reuse, Recycle: One Team's Journey From Projects to Products by [Sarah Bostwick]()
+
+_No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
+
+- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Links and notes:
+  - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
+
+#### Deep Dive on Ember Events by [Marie Chatfield]()
+
+_No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
+
+- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Links and notes:
+  - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
+
+#### Building a Memex in Ember by [Andrew Louis]()
+
+_No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
+
+- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Links and notes:
+  - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
+
+#### Prying Open the Black Box by [Godfrey Chan]()
+
+_No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
+
+- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Links and notes:
+  - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
+
+#### Minitalk: Contributor Rally by [Sean Massa]()
+
+_No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
+
+- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Links and notes:
+  - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
+
+#### Minitalk: Toyota's Shared Component Library by [Tony Ward]()
+
+_No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
+
+- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Links and notes:
+  - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
+
+#### Minitalk: Lightning Thoughts on Lightning Deploy by [Christina Kung]()
+
+_No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
+
+- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Links and notes:
+  - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
+
+#### Minitalk: Let Me Ember This for You by [Serena Fritsch]()
+
+_No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
+
+- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Links and notes:
+  - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
+
+#### Creating Fluid App-Like Experiences With Ember by [Nick Schot]()
+
+_No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
+
+- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Links and notes:
+  - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
+
+#### Closing Keynote by [Saron Yitbarek]() and [Vaidehi Joshi]()
+
+_No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
+
+- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- Links and notes:
+  - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
