@@ -320,14 +320,15 @@ _Tony presents Toyota's shared component library, named "Loom"._
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - [Toyota Production System](https://en.wikipedia.org/wiki/Toyota_Production_System)
 
-#### Minitalk: Lightning Thoughts on Lightning Deploy by [Christina Kung]()
+#### Minitalk: Lightning Thoughts on Lightning Deploy by [Christina Kung](https://twitter.com/logtailer)
 
-_No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
+_Christine presents on how `ember-cli-deploy` helps with deployment on Conde Nast's built-in-Ember CMS "Copilot"._
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- Links and notes:
-  - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
+- Addons
+  - `ember-cli-deploy`
+  - `ember-cli-deploy-lightning-pack`
 
 #### Minitalk: Let Me Ember This for You by [Serena Fritsch]()
 
