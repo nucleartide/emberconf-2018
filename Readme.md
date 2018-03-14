@@ -212,14 +212,13 @@ _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls
 - Links and notes:
   - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
 
-#### Smartphone Symphony by [Gavin Joyce]()
+#### Smartphone Symphony by [Gavin Joyce](https://twitter.com/gavinjoyce)
 
 _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- Links and notes:
-  - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
+- [ember-present](https://github.com/GavinJoyce/ember-present)
 
 #### Reuse, Recycle: One Team's Journey From Projects to Products by [Sarah Bostwick]()
 
