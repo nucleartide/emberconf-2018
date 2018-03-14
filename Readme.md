@@ -175,7 +175,7 @@ _Danielle dives into component and data design for use in form UI and UX._
 #### How To Build A Bonfire: On Training and Hiring New Devs by [Taylor Jones](https://twitter.com/hiimtaylorjones)
 
 - [Video](https://youtu.be/qfnkDyHVJzs?t=29267)
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Slides](https://www.slideshare.net/TaylorJones89/how-to-build-a-bonfire-on-hiring-and-training-ember-developers)
 - [Mythical Man Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
   - Can't throw people at a problem... or can you :shipit:
 - Help your team become _skilled_ at Ember
