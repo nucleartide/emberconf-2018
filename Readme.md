@@ -303,14 +303,14 @@ _Godfrey explains debugging techniques by making analogies to the Hawaii missile
   - Right click -> Whow function definition
   - Break on DOM subtree modifications
 
-#### Minitalk: Contributor Rally by [Sean Massa]()
+#### Minitalk: Contributor Rally by [Sean Massa](https://twitter.com/endangeredmassa)
 
 _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- Links and notes:
-  - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
+- [all-contributors](https://github.com/kentcdodds/all-contributors)
+- [12 Reasons I Still Choose Ember.js by Ryan Tablada (rtablada)](https://www.youtube.com/watch?v=nOCMppWZ0Qs)
 
 #### Minitalk: Toyota's Shared Component Library by [Tony Ward]()
 
