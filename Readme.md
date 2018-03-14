@@ -348,12 +348,12 @@ _Sam Selikoff presents ember-cli-addon-docs, a standard documentation solution f
 
 #### Minitalk: Let Me Ember This for You by [Serena Fritsch]()
 
-_No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
+_Serena presents on her experience rewriting the Ember.js deprecation page in Ember._
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- Links and notes:
-  - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
+- [broccoli-static-site-json](https://github.com/stonecircle/broccoli-static-site-json)
+- [ember-learn/deprecation-app](https://github.com/ember-learn/deprecation-app)
 
 #### Creating Fluid App-Like Experiences With Ember by [Nick Schot]()
 
