@@ -11,6 +11,7 @@ Inspired by [**@poteto**](https://github.com/poteto)'s past EmberConf repos. See
 > <img alt="" src="https://user-images.githubusercontent.com/914228/34072730-9d2d0bcc-e25a-11e7-9ab5-405ddce05303.gif" width="25"> <img alt="" src="https://user-images.githubusercontent.com/914228/34072749-07a8ab50-e25b-11e7-80ba-d0f6250aad11.png" width="20.5">
 
 - [Official live stream](https://www.youtube.com/watch?v=qfnkDyHVJzs&feature=youtu.be)
+- [Live captions](http://streamtext.net/player?event=Tilde)
 
 ## Day 1
 
