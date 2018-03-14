@@ -258,14 +258,26 @@ _Marie offers a lucid explanation of the subtle differences between DOM event an
 - Pick one and stick with it
 - DOM event listeners fire before Ember event listeners
 
-#### Building a Memex in Ember by [Andrew Louis]()
+#### Building a Memex in Ember by [Andrew Louis](https://twitter.com/hygen)
 
-_No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
+_Andrew demos his impressive life events database and graph query language and UI. Also his history of eclectic burrito consumption._
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- Links and notes:
-  - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
+- [Vannevar Bush](https://en.wikipedia.org/wiki/Vannevar_Bush)
+- [As We May Think essay](http://web.mit.edu/STS.035/www/PDFs/think.pdf)
+- [Memex](https://en.wikipedia.org/wiki/Memex)
+  - Human brain creates associations, memex creates associations mechanically
+- "...brain gets the same stack that you had when you were solving this problem..."
+- [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self)
+- [`ember-d3`](https://www.npmjs.com/package/ember-d3)
+- [Mapbox GL JS](https://www.mapbox.com/mapbox-gl-js/api/)
+- Addons used
+  - ember-in-viewport
+  - ember-electron
+- Douglas Engelbert
+- @darkpatterns for inefficient time usage
+- "Keep your side projects weird"
 
 #### Prying Open the Black Box by [Godfrey Chan]()
 
