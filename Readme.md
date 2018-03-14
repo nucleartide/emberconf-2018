@@ -184,9 +184,17 @@ _Danielle dives into component and data design for use in form UI and UX._
 - Have a style guide
   - Not just syntax, but how to do things
 
-#### Living Animation by [Edward Faulkner]()
+#### Living Animation by [Edward Faulkner](https://twitter.com/eaf4)
+
+_mind blown_
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- Links:
-  - ...
+- Animation approaches
+  - Tweening
+  - Procedural animation: rules and physics models in games
+- [liquid-fire](https://github.com/ember-animation/liquid-fire)
+  - Separation between app logic and animation
+  - Establish rules (like in games) and let motions emerge
+- [`ember-animated`](https://github.com/ember-animation/ember-animated), "Glimmer"-ization of `liquid-fire`
+- [ef4/living-animation](https://github.com/ef4/living-animation)
