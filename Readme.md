@@ -278,6 +278,9 @@ _Andrew demos his impressive life events database and graph query language and U
 - Douglas Engelbert
 - @darkpatterns for inefficient time usage
 - "Keep your side projects weird"
+- https://hyfen.net/memex/
+
+#### Brief interlude from sponsor LinkedIn
 
 #### Prying Open the Black Box by [Godfrey Chan]()
 
