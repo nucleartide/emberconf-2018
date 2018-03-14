@@ -133,6 +133,7 @@ Jamie examines test abstractions, and how one might hide details and edge cases 
 - Access via accessibility
 - [Rule of Least Power](https://www.w3.org/2001/tag/doc/leastPower.html)
 - [Babel plugin](https://babeljs.io/docs/plugins/) for generating `keyboardClick` test
+- [`say-more`](https://github.com/jgwhite/say-more) app demonstrating concepts from talk
 
 #### Who Moved My Cheese? Ember's New Filesystem Layout by [Matthew Beale](https://twitter.com/mixonic)
 
@@ -170,12 +171,17 @@ _Danielle dives into component and data design for use in form UI and UX._
   - Tab navigation order that makes sense
 - [Blue Apron](https://www.blueapron.com/) - form examples on the site
 
-#### How To Build A Bonfire: On Training and Hiring New Devs by [Taylor Jones]()
+#### How To Build A Bonfire: On Training and Hiring New Devs by [Taylor Jones](https://twitter.com/hiimtaylorjones)
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- Links:
-  - ...
+- [Mythical Man Month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
+  - Can't throw people at a problem... or can you :shipit:
+- Help your team become _skilled_ at Ember
+- "...context of a developer's past affects how they understand the future..."
+  - Example: React vs. Angular background
+- Have a style guide
+  - Not just syntax, but how to do things
 
 #### Living Animation by [Edward Faulkner]()
 
