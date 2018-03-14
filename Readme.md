@@ -282,14 +282,26 @@ _Andrew demos his impressive life events database and graph query language and U
 
 #### Brief interlude from sponsor LinkedIn
 
-#### Prying Open the Black Box by [Godfrey Chan]()
+...
 
-_No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
+#### Prying Open the Black Box by [Godfrey Chan](https://twitter.com/chancancode)
+
+_Godfrey explains debugging techniques by making analogies to the Hawaii missile false alarm and Columbia disaster. He also gives an overview of Chrome Devtools tricks for debugging Ember apps._
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- Links and notes:
-  - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
+- Read stack traces from top to bottom
+- Use debugger to freeze time, then go up and down stack
+- [Blackboxing stack frames to hide frames you don't want](https://developer.chrome.com/devtools/docs/blackboxing)
+- Chrome DevTools tricks
+  - Conditional breakpoints in chrome devtools
+  - Breakpoint on Ajax request
+  - Right click & continue to here
+  - `import { assert, debug } from '@ember/debug';`
+  - "Continue to end" to escape breakpoints in for loop
+  - [Ember Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en)
+  - Right click -> Whow function definition
+  - Break on DOM subtree modifications
 
 #### Minitalk: Contributor Rally by [Sean Massa]()
 
