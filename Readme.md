@@ -53,6 +53,8 @@ _Overall, lots of API improvements, as well as exciting advances in Glimmer.js._
 
 #### Brief interlude from sponsor [Percy.io](https://percy.io) by [Mike Fotinakis](https://twitter.com/mikefotinakis?lang=en)
 
+_No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
+
 - [percy-web](https://github.com/percy/percy-web), open source front-end
 - [Example of PR integration](https://github.com/percy/percy-web/pull/459)
 
@@ -134,7 +136,7 @@ _Tobias introduces new, elegant testing APIs in Ember._
 
 #### Say More by [Jamie White](https://twitter.com/jgwhite)
 
-Jamie examines test abstractions, and how one might hide details and edge cases behind a less powerful test language.
+_Jamie examines test abstractions, and how one might hide details and edge cases behind a less powerful test language._
 
 - [Video](https://youtu.be/qfnkDyHVJzs?t=20356)
 - Slides - [https://speakerdeck.com/turbo87/the-next-generation-of-testing-in-ember-dot-js](https://speakerdeck.com/turbo87/the-next-generation-of-testing-in-ember-dot-js)
@@ -144,6 +146,8 @@ Jamie examines test abstractions, and how one might hide details and edge cases 
 - [`say-more`](https://github.com/jgwhite/say-more) app demonstrating concepts from talk
 
 #### Who Moved My Cheese? Ember's New Filesystem Layout by [Matthew Beale](https://twitter.com/mixonic)
+
+_No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
 
 - [Video](https://youtu.be/qfnkDyHVJzs?t=22950)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
@@ -180,6 +184,8 @@ _Danielle dives into component and data design for use in form UI and UX._
 - [Blue Apron](https://www.blueapron.com/) - form examples on the site
 
 #### How To Build A Bonfire: On Training and Hiring New Devs by [Taylor Jones](https://twitter.com/hiimtaylorjones)
+
+_No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
 
 - [Video](https://youtu.be/qfnkDyHVJzs?t=29267)
 - [Slides](https://www.slideshare.net/TaylorJones89/how-to-build-a-bonfire-on-hiring-and-training-ember-developers)
