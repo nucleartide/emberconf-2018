@@ -220,7 +220,7 @@ _mind blown_
 
 _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
 
-- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Video](https://youtu.be/bt9MRkf5Mus?t=1082)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Links and notes:
   - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
@@ -229,7 +229,7 @@ _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls
 
 _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
 
-- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Video](https://youtu.be/bt9MRkf5Mus?t=4601)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - [ember-present](https://github.com/GavinJoyce/ember-present)
 
@@ -237,7 +237,7 @@ _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls
 
 _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
 
-- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Video](https://youtu.be/bt9MRkf5Mus?t=7327)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - animalancestry.com
 - [Write the Docs](http://www.writethedocs.org/)
@@ -247,7 +247,7 @@ _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls
 
 _Marie offers a lucid explanation of the subtle differences between DOM event and Ember event handling._
 
-- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Video](https://youtu.be/bt9MRkf5Mus?t=14450)
 - [Slides](https://drive.google.com/file/d/1tI4_GJesVIiH1QXsHtjyT6NAyt0kip47/view)
 - Distinguish between DOM event listeners and Ember event listeners
   - DOM event listener (notice `on*` event syntax): `<div onclick={{action 'handleClick'}}>click me</div>`
@@ -262,7 +262,7 @@ _Marie offers a lucid explanation of the subtle differences between DOM event an
 
 _Andrew demos his impressive life events database and graph query language and UI. Also his history of eclectic burrito consumption._
 
-- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Video](https://youtu.be/bt9MRkf5Mus?t=17189)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - [Vannevar Bush](https://en.wikipedia.org/wiki/Vannevar_Bush)
 - [As We May Think essay](http://web.mit.edu/STS.035/www/PDFs/think.pdf)
@@ -288,7 +288,7 @@ _Andrew demos his impressive life events database and graph query language and U
 
 _Godfrey explains debugging techniques by making analogies to the Hawaii missile false alarm and Columbia disaster. He also gives an overview of Chrome Devtools tricks for debugging Ember apps._
 
-- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Video](https://youtu.be/bt9MRkf5Mus?t=19915)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Read stack traces from top to bottom
 - Use debugger to freeze time, then go up and down stack
