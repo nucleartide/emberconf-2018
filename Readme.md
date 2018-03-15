@@ -308,8 +308,9 @@ _Godfrey explains debugging techniques by making analogies to the Hawaii missile
 _Sean rallies the crowd and lists the various ways people contribute to the Ember.js community._
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Slides](https://docs.google.com/presentation/d/1Mwpp403LFUxM79eyXavI-Broh7tRWn_fbHxOdQYI0i4/edit?usp=sharing)
 - [all-contributors](https://github.com/kentcdodds/all-contributors)
+- [Let's All Build a Hat Rack](https://labhr.github.io/)
 - [12 Reasons I Still Choose Ember.js by Ryan Tablada (rtablada)](https://www.youtube.com/watch?v=nOCMppWZ0Qs)
 
 #### Minitalk: Toyota's Shared Component Library by [Tony Ward](https://twitter.com/_ynotdraw)
