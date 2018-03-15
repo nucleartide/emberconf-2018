@@ -91,7 +91,7 @@ _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls
 _Jessica provides an exhaustive overview of the Ember.js ecosystem and Emberista subculture._
 
 - [Video](https://youtu.be/qfnkDyHVJzs?t=10835)
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Slides](https://speakerdeck.com/jessicajordanjs/everything-they-didnt-tell-you-about-the-ember-community-jessica-jordan)
 - Subculture
   - Emberistas, subset/subculture of JavaScript community
 - [Growth in `@angular/cli` download counts](https://npm-stat.com/charts.html?package=%40angular%2Fcli&from=2017-03-01&to=2018-03-13)
