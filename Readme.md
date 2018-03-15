@@ -355,14 +355,21 @@ _Serena presents on her experience rewriting the Ember.js deprecation page in Em
 - [broccoli-static-site-json](https://github.com/stonecircle/broccoli-static-site-json)
 - [ember-learn/deprecation-app](https://github.com/ember-learn/deprecation-app)
 
-#### Creating Fluid App-Like Experiences With Ember by [Nick Schot]()
+#### Creating Fluid App-Like Experiences With Ember by [Nick Schot](https://twitter.com/nickschot)
 
 _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- Links and notes:
-  - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
+- Addons
+  - [ember-mobile-core](https://github.com/nickschot/ember-mobile-core)
+  - [ember-mobile-menu](https://github.com/nickschot/ember-mobile-menu)
+  - [ember-mobile-bar](https://github.com/nickschot/ember-mobile-bar)
+  - [ember-mobile-pane](https://github.com/nickschot/ember-mobile-pane)
+- Mobile approaches
+  - PWA
+  - Corber/Cordova: hybrid approach, load Ember app into WebView
+- [Demo app](https://github.com/nickschot/emberconf2018)
 
 #### Closing Keynote by [Saron Yitbarek]() and [Vaidehi Joshi]()
 
