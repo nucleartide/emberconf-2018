@@ -300,7 +300,7 @@ _Godfrey explains debugging techniques by making analogies to the Hawaii missile
   - `import { assert, debug } from '@ember/debug';`
   - "Continue to end" to escape breakpoints in for loop
   - [Ember Inspector](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi?hl=en)
-  - Right click -> Whow function definition
+  - Right click -> Show function definition
   - Break on DOM subtree modifications
 
 #### Minitalk: Contributor Rally by [Sean Massa](https://twitter.com/endangeredmassa)
