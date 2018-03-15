@@ -371,11 +371,17 @@ _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls
   - Corber/Cordova: hybrid approach, load Ember app into WebView
 - [Demo app](https://github.com/nickschot/emberconf2018)
 
-#### Closing Keynote by [Saron Yitbarek]() and [Vaidehi Joshi]()
+#### Shining a Light (closing keynote) by [Saron Yitbarek](https://twitter.com/saronyitbarek) and [Vaidehi Joshi](https://twitter.com/vaidehijoshi)
 
-_No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
+_Saron and Vaidehi discuss community building, and how to build inclusive commmunities (without the jerks). More pink, 3 exclamation points minimum!!!_
 
 - Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- Links and notes:
-  - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
+- Weekly #codenewbie Twitter chats
+- [basecs Medium publication](https://medium.com/basecs)
+- "No community is truly inclusive"
+- [Codeland conference](http://codelandconf.com/)
+- [Code Newbie podcast](https://www.codenewbie.org/podcast)
+- [basecs podcast](https://www.codenewbie.org/basecs)
+- [Lending Privilege talk by @anjuan at RubyConf](https://www.youtube.com/watch?v=zd4PsSk_0iQ)
+- "If I don't see them, ~they must not exist~"
