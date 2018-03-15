@@ -10,8 +10,9 @@ Inspired by [**@poteto**](https://github.com/poteto)'s past EmberConf repos. See
 
 > <img alt="" src="https://user-images.githubusercontent.com/914228/34072730-9d2d0bcc-e25a-11e7-9ab5-405ddce05303.gif" width="25"> <img alt="" src="https://user-images.githubusercontent.com/914228/34072749-07a8ab50-e25b-11e7-80ba-d0f6250aad11.png" width="20.5">
 
-- [Official live stream](https://www.youtube.com/watch?v=qfnkDyHVJzs&feature=youtu.be)
-- [Live captions](http://streamtext.net/player?event=Tilde)
+- Official live stream
+  - [Day 1](https://www.youtube.com/watch?v=qfnkDyHVJzs&feature=youtu.be)
+  - [Day 2](https://youtu.be/bt9MRkf5Mus?t=1080)
 
 ## Other Blogs & Highlights
 - [Alex's Talk Highlights](https://alexdiliberto.com/posts/emberconf-2018-notes/)
@@ -28,6 +29,8 @@ See photos [here](https://github.com/nucleartide/emberconf-2018/tree/master/job-
 
 _Overall, lots of API improvements, as well as exciting advances in Glimmer.js._
 
+- [Video](https://youtu.be/qfnkDyHVJzs?t=1h2m25s)
+- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - New filesystem layout
 - Optional jQuery
 - Codemods
@@ -53,12 +56,13 @@ _Overall, lots of API improvements, as well as exciting advances in Glimmer.js._
 
 #### Brief interlude from sponsor [Percy.io](https://percy.io) by [Mike Fotinakis](https://twitter.com/mikefotinakis?lang=en)
 
-_No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
+Percy.io is "Solving visual testing across design, development, and deployment." "Stop doing QA in the dark. See every pixel changed on every pull request."
 
+- [percy.io](https://percy.io/)
 - [percy-web](https://github.com/percy/percy-web), open source front-end
 - [Example of PR integration](https://github.com/percy/percy-web/pull/459)
 
-#### Ambitious for All: Accessibility in Ember by [Melanie Sumner](https://twitter.com/melaniersumner?lang=en)
+#### Ambitious for All: Accessibility in Ember by [Melanie Sumner](https://twitter.com/melaniersumner)
 
 > Be magnanimous.
 
@@ -307,7 +311,7 @@ _Godfrey explains debugging techniques by making analogies to the Hawaii missile
 
 _Sean rallies the crowd and lists the various ways people contribute to the Ember.js community._
 
-- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Video](https://youtu.be/bt9MRkf5Mus?t=6h35m46s)
 - [Slides](https://docs.google.com/presentation/d/1Mwpp403LFUxM79eyXavI-Broh7tRWn_fbHxOdQYI0i4/edit?usp=sharing)
 - [all-contributors](https://github.com/kentcdodds/all-contributors)
 - [Let's All Build a Hat Rack](https://labhr.github.io/)
@@ -317,7 +321,7 @@ _Sean rallies the crowd and lists the various ways people contribute to the Embe
 
 _Tony presents Toyota's shared component library, named "Loom"._
 
-- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Video](https://youtu.be/bt9MRkf5Mus?t=24237)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - [Toyota Production System](https://en.wikipedia.org/wiki/Toyota_Production_System)
 
@@ -325,7 +329,7 @@ _Tony presents Toyota's shared component library, named "Loom"._
 
 _Christine presents on how `ember-cli-deploy` helps with deployment on Conde Nast's built-in-Ember CMS "Copilot"._
 
-- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Video](https://youtu.be/bt9MRkf5Mus?t=24595)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Addons
   - `ember-cli-deploy`
@@ -335,7 +339,7 @@ _Christine presents on how `ember-cli-deploy` helps with deployment on Conde Nas
 
 _Sam Selikoff presents ember-cli-addon-docs, a standard documentation solution for Ember addons._
 
-- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Video](https://youtu.be/bt9MRkf5Mus?t=24900)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Similar documentation sites
   - ember-cli-mirage (original)
@@ -351,7 +355,7 @@ _Sam Selikoff presents ember-cli-addon-docs, a standard documentation solution f
 
 _Serena presents on her experience rewriting the Ember.js deprecation page in Ember._
 
-- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Video](https://youtu.be/bt9MRkf5Mus?t=25329)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - [broccoli-static-site-json](https://github.com/stonecircle/broccoli-static-site-json)
 - [ember-learn/deprecation-app](https://github.com/ember-learn/deprecation-app)
@@ -360,7 +364,7 @@ _Serena presents on her experience rewriting the Ember.js deprecation page in Em
 
 _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
 
-- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Video](https://youtu.be/bt9MRkf5Mus?t=7h14m50s)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Addons
   - [ember-mobile-core](https://github.com/nickschot/ember-mobile-core)
@@ -376,7 +380,7 @@ _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls
 
 _Saron and Vaidehi discuss community building, and how to build inclusive commmunities (without the jerks). More pink, 3 exclamation points minimum!!!_
 
-- Video - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Video](https://youtu.be/bt9MRkf5Mus?t=8h3m35s)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - Weekly #codenewbie Twitter chats
 - [basecs Medium publication](https://medium.com/basecs)
