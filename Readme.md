@@ -243,7 +243,7 @@ _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls
 
 - [Video](https://youtu.be/bt9MRkf5Mus?t=7327)
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
-- animalancestry.com
+- http://www.animalancestry.com/
 - [Write the Docs](http://www.writethedocs.org/)
 - Sarah Mei's "refactor without permission" talk
 
