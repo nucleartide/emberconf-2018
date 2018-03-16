@@ -280,7 +280,7 @@ _Andrew demos his impressive life events database and graph query language and U
   - ember-in-viewport
   - ember-electron
 - Douglas Engelbert
-- @darkpatterns for inefficient time usage
+- [@darkpatterns](https://twitter.com/darkpatterns) for inefficient time usage
 - "Keep your side projects weird"
 - https://hyfen.net/memex/
 
@@ -389,4 +389,5 @@ _Saron and Vaidehi discuss community building, and how to build inclusive commmu
 - [Code Newbie podcast](https://www.codenewbie.org/podcast)
 - [basecs podcast](https://www.codenewbie.org/basecs)
 - [Lending Privilege talk by @anjuan at RubyConf](https://www.youtube.com/watch?v=zd4PsSk_0iQ)
+  - [@anjuan](https://twitter.com/anjuan)
 - "If I don't see them, ~they must not exist~"
