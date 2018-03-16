@@ -322,7 +322,7 @@ _Sean rallies the crowd and lists the various ways people contribute to the Embe
 _Tony presents Toyota's shared component library, named "Loom"._
 
 - [Video](https://youtu.be/bt9MRkf5Mus?t=24237)
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Slides](https://speakerdeck.com/ynotdraw/emberconf2018-toyotas-shared-component-library)
 - [Toyota Production System](https://en.wikipedia.org/wiki/Toyota_Production_System)
 
 #### Minitalk: Lightning Thoughts on Lightning Deploy by [Christina Kung](https://twitter.com/logtailer)
