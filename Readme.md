@@ -220,7 +220,7 @@ _mind blown_
 
 ### Talks
 
-#### The Future of Data in Ember by [Dan Gebhardt]()
+#### The Future of Data in Ember by [Dan Gebhardt](https://twitter.com/dgeb)
 
 _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
 
@@ -237,7 +237,7 @@ _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls
 - Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
 - [ember-present](https://github.com/GavinJoyce/ember-present)
 
-#### Reuse, Recycle: One Team's Journey From Projects to Products by [Sarah Bostwick]()
+#### Reuse, Recycle: One Team's Journey From Projects to Products by [Sarah Bostwick](https://twitter.com/FajitaFresca)
 
 _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
 
@@ -262,7 +262,7 @@ _Marie offers a lucid explanation of the subtle differences between DOM event an
 - Pick one and stick with it
 - DOM event listeners fire before Ember event listeners
 
-#### Building a Memex in Ember by [Andrew Louis](https://twitter.com/hygen)
+#### Building a Memex in Ember by [Andrew Louis](https://twitter.com/hyfen)
 
 _Andrew demos his impressive life events database and graph query language and UI. Also his history of eclectic burrito consumption._
 
