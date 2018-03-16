@@ -30,7 +30,7 @@ See photos [here](https://github.com/nucleartide/emberconf-2018/tree/master/job-
 _Overall, lots of API improvements, as well as exciting advances in Glimmer.js._
 
 - [Video](https://youtu.be/qfnkDyHVJzs?t=1h2m25s)
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Slides](https://speakerdeck.com/tomdale/emberconf-2018-keynote)
 - New filesystem layout
 - Optional jQuery
 - Codemods
