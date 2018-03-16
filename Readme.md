@@ -206,7 +206,7 @@ _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls
 _mind blown_
 
 - [Video](https://youtu.be/qfnkDyHVJzs?t=31861)
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Slides](https://github.com/ef4/living-animation)
 - Animation approaches
   - Tweening
   - Procedural animation: rules and physics models in games
@@ -267,7 +267,7 @@ _Marie offers a lucid explanation of the subtle differences between DOM event an
 _Andrew demos his impressive life events database and graph query language and UI. Also his history of eclectic burrito consumption._
 
 - [Video](https://youtu.be/bt9MRkf5Mus?t=17189)
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Slides](https://hyfen.net/memex/presentations/2018-03-14%20-%20Building%20a%20Memex%20-%20Emberconf%20-%20Andrew%20Louis.pdf)
 - [Vannevar Bush](https://en.wikipedia.org/wiki/Vannevar_Bush)
 - [As We May Think essay](http://web.mit.edu/STS.035/www/PDFs/think.pdf)
 - [Memex](https://en.wikipedia.org/wiki/Memex)
@@ -340,7 +340,7 @@ _Christine presents on how `ember-cli-deploy` helps with deployment on Conde Nas
 _Sam Selikoff presents ember-cli-addon-docs, a standard documentation solution for Ember addons._
 
 - [Video](https://youtu.be/bt9MRkf5Mus?t=24900)
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Slides](https://speakerdeck.com/samselikoff/ember-cli-addon-docs-lightning-talk)
 - Similar documentation sites
   - ember-cli-mirage (original)
   - ember-power-select
