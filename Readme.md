@@ -225,7 +225,7 @@ _mind blown_
 _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!_
 
 - [Video](https://youtu.be/bt9MRkf5Mus?t=1082)
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Slides](https://speakerdeck.com/dgeb/the-future-of-data-in-ember)
 - Links and notes:
   - None yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls)!
 
