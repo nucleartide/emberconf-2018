@@ -356,7 +356,7 @@ _Sam Selikoff presents ember-cli-addon-docs, a standard documentation solution f
 _Serena presents on her experience rewriting the Ember.js deprecation page in Ember._
 
 - [Video](https://youtu.be/bt9MRkf5Mus?t=25329)
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Slides](https://speakerdeck.com/serenaf/let-me-ember-this-for-you)
 - [broccoli-static-site-json](https://github.com/stonecircle/broccoli-static-site-json)
 - [ember-learn/deprecation-app](https://github.com/ember-learn/deprecation-app)
 
