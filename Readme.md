@@ -381,7 +381,7 @@ _No summary yet. Open a [PR](https://github.com/nucleartide/emberconf-2018/pulls
 _Saron and Vaidehi discuss community building, and how to build inclusive commmunities (without the jerks). More pink, 3 exclamation points minimum!!!_
 
 - [Video](https://youtu.be/bt9MRkf5Mus?t=8h3m35s)
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Slides](https://www.slideshare.net/saronyitbarek/shining-a-light-emberconf-2018-closing-keynote)
 - Weekly #codenewbie Twitter chats
 - [basecs Medium publication](https://medium.com/basecs)
 - "No community is truly inclusive"
