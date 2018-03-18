@@ -293,7 +293,7 @@ _Andrew demos his impressive life events database and graph query language and U
 _Godfrey explains debugging techniques by making analogies to the Hawaii missile false alarm and Columbia disaster. He also gives an overview of Chrome Devtools tricks for debugging Ember apps._
 
 - [Video](https://youtu.be/bt9MRkf5Mus?t=19915)
-- Slides - Not uploaded yet. Submit a [PR](https://github.com/nucleartide/emberconf-2018/pulls) if you find it!
+- [Slides](https://speakerdeck.com/chancancode/prying-open-the-black-box-emberconf-2018)
 - Read stack traces from top to bottom
 - Use debugger to freeze time, then go up and down stack
 - [Blackboxing stack frames to hide frames you don't want](https://developer.chrome.com/devtools/docs/blackboxing)
