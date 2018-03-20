@@ -17,6 +17,12 @@ Inspired by [**@poteto**](https://github.com/poteto)'s past EmberConf repos. See
 ## Other Blogs & Highlights
 - [Alex's Talk Highlights](https://alexdiliberto.com/posts/emberconf-2018-notes/)
 
+## Photos
+
+- [Jeremy Green](https://twitter.com/jagthedrummer)
+  - [Day 1 Gallery](http://viewer.cloudhdr.com/galleries/b74f13b0-26e3-11e8-95e0-fa52bc12679a/gallery-members)
+  - [Day 2 Gallery](http://viewer.cloudhdr.com/galleries/f99aa9c4-27aa-11e8-b46a-2ec82ea419ff/gallery-members)
+
 ## Job board
 
 See photos [here](https://github.com/nucleartide/emberconf-2018/tree/master/job-board). Pictures were taken around 1 PM PST on Wednesday March 14.
