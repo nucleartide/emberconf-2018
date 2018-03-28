@@ -46,7 +46,7 @@ _Overall, lots of API improvements, as well as exciting advances in Glimmer.js._
   - JS module api
   - Computed properties, use es5 getters
   - ES6 classes
-    - TypeScript
+    - [TypeScript](https://github.com/typed-ember/ember-cli-typescript)
   - Decorators
 - Editor integration
   - [VSCode](https://code.visualstudio.com/docs/languages/typescript)
