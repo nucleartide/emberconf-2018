@@ -266,6 +266,7 @@ _Marie offers a lucid explanation of the subtle differences between DOM event an
   - Ember event listener: `<div {{action 'handleClick'}}>click me</div>`
     - Ember event listeners don't receive the native DOM event
 - [Deep Dive on Ember Events blog post from Marie](https://medium.com/square-corner-blog/deep-dive-on-ember-events-cf684fd3b808)
+  - [interactive event demo](https://ember-twiddle.com/3de2f20b58797f1add3214c49be7fcdd)
 - [`event_dispatcher.js`](https://github.com/emberjs/ember.js/blob/5a59eef5e6eb34001f8d002e1f8bc146d8d3f86f/packages/ember-views/lib/system/event_dispatcher.js#L205)
 - Pick one and stick with it
 - DOM event listeners fire before Ember event listeners
