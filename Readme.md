@@ -16,6 +16,7 @@ Inspired by [**@poteto**](https://github.com/poteto)'s past EmberConf repos. See
 
 ## Other Blogs & Highlights
 - [Alex's Talk Highlights](https://alexdiliberto.com/posts/emberconf-2018-notes/)
+- [Chris Ng's Recap](https://www.linkedin.com/pulse/emberconf-2018-recap-chris-ng/)
 
 ## Photos / Videos of Event
 
