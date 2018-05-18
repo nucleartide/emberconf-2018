@@ -152,7 +152,7 @@ _Tobias introduces new, elegant testing APIs in Ember._
 _Jamie examines test abstractions, and how one might hide details and edge cases behind a less powerful test language._
 
 - [Video](https://youtu.be/qfnkDyHVJzs?t=20356)
-- Slides - [https://speakerdeck.com/turbo87/the-next-generation-of-testing-in-ember-dot-js](https://speakerdeck.com/turbo87/the-next-generation-of-testing-in-ember-dot-js)
+- [Slides](https://speakerdeck.com/jgwhite/say-more)
 - Access via accessibility
 - [Rule of Least Power](https://www.w3.org/2001/tag/doc/leastPower.html)
 - [Babel plugin](https://babeljs.io/docs/plugins/) for generating `keyboardClick` test
