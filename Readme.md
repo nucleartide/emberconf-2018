@@ -76,7 +76,7 @@ Percy.io is "Solving visual testing across design, development, and deployment."
 > Be magnanimous.
 
 - [Video](https://youtu.be/qfnkDyHVJzs?t=8286)
-- [Slides](https://speakerdeck.com/melsumner/ambitious-for-all-slides-only)
+- [Slides](https://speakerdeck.com/melsumner/ambitious-for-all-slides-only-accessibility-in-ember-emberjs)
 - WAI-ARIA
 - WCAG 2.0
 - [Color-blind glasses](https://www.google.com/search?q=color+blind+glasses)
